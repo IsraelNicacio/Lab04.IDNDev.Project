@@ -1,0 +1,6 @@
+@IDNDev.Cadastros.Api_HostAddress = http://localhost:5270
+
+GET {{IDNDev.Cadastros.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
